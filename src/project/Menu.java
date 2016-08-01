@@ -55,7 +55,7 @@ public class Menu {
 		System.out.println("|            --------------------             |");
 		System.out.println("|                                             |");
 		System.out.println("| Options: [1]: List Fleet                    |");
-		System.out.println("|          [2]: View Fastest Jet              |");
+		System.out.println("|          [2]: View Our Fastest Jet          |");
 		System.out.println("|          [3]: View Jet with Longest Range   |");
 		System.out.println("|          [4]: Add to the Fleet              |");
 		System.out.println("|          [5]: Quit                          |");

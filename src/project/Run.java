@@ -50,7 +50,7 @@ public class Run {
 				Scanner jetstuff = new Scanner(System.in);
 				System.out.print("Enter new Jet name: ");
 				String model = jetstuff.nextLine();
-				System.out.print("Enter new Jet price: ");
+				System.out.print("Enter new Jet price (format: '000 million': ");
 				String price = jetstuff.nextLine();
 				System.out.print("Enter new Jet top speed: ");
 				double speed = jetstuff.nextDouble();
